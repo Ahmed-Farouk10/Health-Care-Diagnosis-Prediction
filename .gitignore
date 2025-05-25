@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+.env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Preprocessed data files
+*.pkl
+
+# Trained model
+model.h5
+
+# IDE settings
+.vscode/
+
+# macOS files
+.DS_Store
